@@ -8,55 +8,49 @@
 
 
 <url>
-  <loc>http://logistico.herokuapp.com/index.html</loc>
+  <loc>https://imaginarium.netlify.app/index.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/service.html</loc>
+  <loc>https://imaginarium.netlify.app/service.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/blog.html</loc>
+  <loc>https://imaginarium.netlify.app/blog.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/contact.html</loc>
+  <loc>https://imaginarium.netlify.app/contact.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/worldoffices.html</loc>
+  <loc>https://imaginarium.netlify.app/worldoffices.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/about.html</loc>
+  <loc>https://imaginarium.netlify.app/about.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/chesto-zadavani-vuprosi.html</loc>
+  <loc>https://imaginarium.netlify.app/chesto-zadavani-vuprosi.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/usloviya-za-polzvane.html</loc>
+  <loc>https://imaginarium.netlify.app/usloviya-za-polzvane.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://logistico.herokuapp.com/service_details.html</loc>
+  <loc>https://imaginarium.netlify.app/service_details.html</loc>
   <lastmod>2020-01-16T21:43:22+00:00</lastmod>
   <priority>0.64</priority>
 </url>
-<url>
-  <loc>http://logistico.herokuapp.com/logistico-podpisa-dogovor-s-cesare-paciotti.html</loc>
-  <lastmod>2020-01-16T21:43:22+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
 
 </urlset>
